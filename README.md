@@ -1,3 +1,6 @@
+![image](https://github.com/barryblueice/FlashExtra/assets/44601454/1cae0ed6-fc77-49ea-8d97-088b3de1673b)
+
+
 # FlashExtra
 An easy-used software for SSD&amp;USB Drive DIYers.
 
