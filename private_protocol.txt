@@ -1,0 +1,60 @@
+[简体中文/Simplified Chinese]
+
+私有许可协议
+
+版权所有 (c) R-SODIUM Technology, Barry Song. 保留所有权利.
+
+1. 许可范围
+本协议授予您有限的许可权限，以使用本软件及其相关文档（以下统称为“软件”）的副本。
+
+2. 权利限制
+2.1 您不得以任何形式分发、复制、修改、衍生、出售、出租、转让或授予任何与本软件有关的权利或许可权限给第三方，除非您获得了Barry Song明确的书面授权。
+
+2.2 您不得对本软件进行逆向工程、反编译、反汇编或其他试图获取源代码的行为。
+
+2.3 您不得从本软件中删除或修改任何版权声明、商标或其他权利声明。
+
+3. 免责声明
+本软件按“原样”提供，无任何明示或暗示的担保或条件。在适用法律允许的最大范围内，Barry Song明确声明不提供任何明示或暗示的担保，包括但不限于适销性、特定用途的适用性和非侵权性。
+
+4. 责任限制
+在任何情况下，Barry Song对于任何因使用本软件而引起的任何直接、间接、偶然、特殊、惩罚性或后果性损失或损害，包括但不限于利润损失、业务中断、数据丢失或其他商业损失，概不负责。
+
+5. 法律适用和管辖权
+本协议受中华人民共和国广东省东莞市法律管辖，并排除其冲突法规定的适用。任何对本协议的解释、有效性或争议应交由有管辖权的法院解决。
+
+6. 终止
+如果您违反本协议的任何规定，Barry Song有权立即终止本协议，并可能追究相关违规行为的法律责任。
+
+请仔细阅读并理本许可协议。通过使用本软件，即表示您同意遵守本协议。
+
+[英文/English]
+
+Private License Agreement
+
+Copyright (c) R-SODIUM Technology, Barry Song. All rights reserved.
+
+1. License Scope
+This agreement grants you a limited license to use copies of the software and accompanying documentation (collectively referred to as the "Software").
+
+2. Rights Restrictions
+2.1 You may not distribute, copy, modify, derive, sell, rent, transfer, or grant any rights or licenses related to the Software to any third party, unless you have obtained explicit written permission from Barry Song.
+
+2.2 You may not engage in reverse engineering, decompiling, disassembling, or any other attempt to obtain the source code of the Software.
+
+2.3 You may not remove or modify any copyright notices, trademarks, or other rights notices from the Software.
+
+3. Disclaimer of Warranty
+The Software is provided "as is" without any express or implied warranty or condition. To the maximum extent permitted by applicable law, Barry Song expressly disclaims any warranties or conditions of merchantability, fitness for a particular purpose, and non-infringement.
+
+4. Limitation of Liability
+Under no circumstances shall Barry Song be liable for any direct, indirect, incidental, special, punitive, or consequential damages arising out of or in any way connected with the use of the Software, including but not limited to loss of profits, business interruption, loss of data, or other commercial damages or losses.
+
+5. Governing Law and Jurisdiction
+This agreement shall be governed by the laws of Dongguan City, Guangdong Province, People's Republic of China, excluding its conflict of law provisions. Any interpretation, validity, or disputes arising from this agreement shall be subject to the exclusive jurisdiction of the competent courts.
+
+6. Termination
+In the event of any breach of this agreement by you, Barry Song shall have the right to immediately terminate this agreement and may pursue legal remedies for the violations.
+
+Please read and understand this license agreement carefully. By using the Software, you agree to comply with the terms and conditions of this agreement.
+

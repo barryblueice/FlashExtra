@@ -18,3 +18,6 @@ An easy-used software for SSD&amp;USB Drive DIYers.
 If this project helps you a lot and you want to support the development and maintenance of this project, feel free to sponsor me via [Here](https://afdian.net/a/barryblueice). Your support is highly appreciated 🥰
 
 [Clicked Here To Download the APP](https://github.com/barryblueice/FlashExtra/releases)
+
+### Declaration: 
+This product is released under the GPL + Private License Agreement. The details of the private license agreement can be found in the private_protocol.txt file in the repository.
