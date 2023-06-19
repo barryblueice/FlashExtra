@@ -20,4 +20,4 @@ If this project helps you a lot and you want to support the development and main
 [Clicked Here To Download the APP](https://github.com/barryblueice/FlashExtra/releases)
 
 ### Declaration: 
-This product is released under the GPL + Private License Agreement. The details of the private license agreement can be found in the private_protocol.txt file in the repository.
+This product is released under the Private License Agreement. The details of the private license agreement can be found in the private_protocol.txt file in the repository.
