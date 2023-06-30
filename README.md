@@ -4,8 +4,8 @@
 # FlashExtra
 基于Python编写的一个个人SSD/U盘工具箱。
 
-### Description
-一个简单易用的软件，适用于SSD&amp;U盘DIYers.
+### Description:
+一个简单易用的软件，适用于SSD&amp;U盘DIYers。
 
 ### Supported Function:
 + [x] 通过NAND PN/ID进行查询 (API Data from flashmaster/flasinfo)；
@@ -16,9 +16,9 @@
 + [ ] Some Surprise......
 
 ### Sponsor:
-如果该项目对你有所帮助，并且你喜欢我的作品，[可以请我喝一杯奶茶](https://afdian.net/a/barryblueice). 你的支持是我更新最大的动力！🥰
+如果该项目对你有所帮助，并且你喜欢我的作品，[可以请我喝一杯奶茶](https://afdian.net/a/barryblueice)。你的支持是我更新最大的动力！🥰
 
 [Clicked Here To Download the Software](https://github.com/barryblueice/FlashExtra/releases)
 
 ### Declaration:
-本产品遵循个人私有协议进行发布，具体协议细节可查看库中的private_protocol.txt文件。
+本产品遵循个人私有协议发行，具体协议细节可查看库中的private_protocol.txt文件。
