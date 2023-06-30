@@ -2,22 +2,23 @@
 
 
 # FlashExtra
-An easy-used software for SSD&amp;USB Drive DIYers.
+基于Python编写的一个个人SSD/U盘工具箱。
 
 ### Description
-An easy-used software for SSD&amp;USB Drive DIYers.
+一个简单易用的软件，适用于SSD&amp;U盘DIYers.
 
 ### Supported Function:
-+ [x] Flash Search by NAND PN/ID (API Data from flashmaster/flasinfo).
-+ [x] Micron/Spectek PartNumber Decoder.
-+ [x] Dram Search (Only Support Samsung/Hynix nox)
-+ [x] SM2258XT/SM2259XT/SM2259XT2 MP Parameter Generation
++ [x] 通过NAND PN/ID进行查询 (API Data from flashmaster/flasinfo)；
++ [x] 美光/大S料号解码；
++ [x] 群联料号解码；
++ [x] 缓存查询 (Only Support Samsung/Hynix now)；
++ [x] SM2258XT/SM2259XT/SM2259XT2通用参数生成工具；
 + [ ] Some Surprise......
 
 ### Sponsor:
-If this project helps you a lot and you want to support the development and maintenance of this project, feel free to sponsor me via [Here](https://afdian.net/a/barryblueice). Your support is highly appreciated 🥰
+如果该项目对你有所帮助，并且你喜欢我的作品，[可以请我喝一杯奶茶](https://afdian.net/a/barryblueice). 你的支持是我更新最大的动力！🥰
 
-[Clicked Here To Download the APP](https://github.com/barryblueice/FlashExtra/releases)
+[Clicked Here To Download the Software](https://github.com/barryblueice/FlashExtra/releases)
 
-### Declaration: 
-This product is released under the Private License Agreement. The details of the private license agreement can be found in the private_protocol.txt file in the repository.
+### Declaration:
+本产品遵循个人私有协议进行发布，具体协议细节可查看库中的private_protocol.txt文件。
